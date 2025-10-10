@@ -1,7 +1,7 @@
 # Image Generation with Denoising Diffusion Probabilistic Models (DDPM)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nguyenvanminh281005/cs115-project/main/Report_CS115_KHTN2023_DDPM.pdf-page1-body-image-0.jpg" alt="DDPM Process" width="700"/>
+  <img src="https://raw.githubusercontent.com/nguyenvanminh281005/cs115-project/main/Source/samples1.png" alt="DDPM Process" width="700"/>
 </div>
 
 <p align="center">
