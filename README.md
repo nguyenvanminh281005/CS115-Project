@@ -36,7 +36,9 @@ Dự án đã triển khai thành công mô hình DDPM trên bộ dữ liệu **
 
 <p align="center">
   <em>(Hình ảnh minh họa quá trình sinh các chữ số '2', '7', và '3' từ nhiễu)</em>
+  <img src="https://raw.githubusercontent.com/nguyenvanminh281005/cs115-project/main/Source/ddpm1.png" alt="Generated Image" width="800"/>
   <img src="https://raw.githubusercontent.com/nguyenvanminh281005/cs115-project/main/Source/ddpm3.png" alt="Generated Image" width="800"/>
+  <img src="https://raw.githubusercontent.com/nguyenvanminh281005/cs115-project/main/Source/ddpm4.png" alt="Generated Image" width="800"/>
   <br>
   <em>Kết quả sau 10 epochs huấn luyện.</em>
 </p>
