@@ -100,10 +100,11 @@ Sử dụng mô hình đã huấn luyện để sinh ảnh mới từ nhiễu v�
 
 📚 Tài liệu tham khảo
 Để hiểu sâu hơn về lý thuyết toán học đằng sau DDPM, vui lòng tham khảo các tài liệu sau trong repository:
-
+``` Bash
 Report_CS115_KHTN2023_DDPM.pdf: Báo cáo chi tiết về cơ sở lý thuyết, công thức toán học, và phân tích mô hình.
 
 Slides_CS115_KHTN2023_DDPM.pdf: Bài trình bày tóm tắt các nội dung chính của dự án.
+```
 
 📄 Giấy phép
 Dự án này được cấp phép theo Giấy phép MIT. Xem chi tiết tại tệp LICENSE.
